@@ -52,3 +52,4 @@ defineEmits(['toggleTheme'])
 .icon-switch-enter-from { opacity: 0; transform: rotate(-90deg) scale(0.5); }
 .icon-switch-leave-to   { opacity: 0; transform: rotate(90deg) scale(0.5); }
 </style>
+<- Components ready -->
