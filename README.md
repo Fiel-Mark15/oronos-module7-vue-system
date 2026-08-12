@@ -105,3 +105,4 @@ This prototype uses the browser's built-in `localStorage` API to persist book re
 - Add login for librarians and students with role-based views.
 - Implement overdue tracking and email notifications.
 - Add pagination for large book collections.
+# Tailwind configured
