@@ -156,3 +156,4 @@ const lightInputStyle = (hasError) => {
 .field-pop-enter-from { opacity: 0; transform: scale(0.95) translateY(-6px); }
 .field-pop-leave-to   { opacity: 0; transform: scale(0.95); }
 </style>
+<- Validation added -->
