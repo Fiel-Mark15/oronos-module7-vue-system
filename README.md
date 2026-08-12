@@ -106,3 +106,4 @@ This prototype uses the browser's built-in `localStorage` API to persist book re
 - Implement overdue tracking and email notifications.
 - Add pagination for large book collections.
 # Tailwind configured
+# localStorage enabled
